@@ -1,0 +1,46 @@
+{
+    "talks": [
+        {
+            "title": "The Future of Artificial Intelligence",
+            "speakers": ["Dr. Evelyn Reed"],
+            "categories": ["AI", "Machine Learning"],
+            "duration": 60,
+            "description": "A deep dive into the latest advancements in AI and what we can expect in the coming years."
+        },
+        {
+            "title": "Building Scalable Web Applications",
+            "speakers": ["John Smith", "Jane Doe"],
+            "categories": ["Web Development", "Scalability"],
+            "duration": 60,
+            "description": "Learn the best practices for creating web applications that can handle millions of users."
+        },
+        {
+            "title": "Cybersecurity in a Post-Quantum World",
+            "speakers": ["Dr. Alan Grant"],
+            "categories": ["Cybersecurity", "Quantum Computing"],
+            "duration": 60,
+            "description": "Exploring the threats and opportunities that quantum computing brings to cybersecurity."
+        },
+        {
+            "title": "The Rise of Serverless Architectures",
+            "speakers": ["Maria Garcia"],
+            "categories": ["Serverless", "Cloud Computing"],
+            "duration": 60,
+            "description": "An introduction to serverless computing and how it is changing the way we build and deploy applications."
+        },
+        {
+            "title": "Data Science for Social Good",
+            "speakers": ["Dr. Ian Malcolm"],
+            "categories": ["Data Science", "Social Impact"],
+            "duration": 60,
+            "description": "Discover how data science is being used to address some of the world's most pressing social challenges."
+        },
+        {
+            "title": "The Ethics of AI",
+            "speakers": ["Dr. Ellie Sattler"],
+            "categories": ["AI", "Ethics"],
+            "duration": 60,
+            "description": "A discussion on the ethical considerations of developing and deploying AI systems."
+        }
+    ]
+}
